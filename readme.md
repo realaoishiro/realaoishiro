@@ -37,7 +37,7 @@
 ---
 
 <div align="center" style="font-weight:bold">
-  <img src="http://i.imgur.com/UhJXG95.jpg" width=200>  <br>
+  <img src="http://i.imgur.com/UhJXG95.jpg"  <br>
   "You’re still here? Go fork a repo or something." 
 </div>
 
