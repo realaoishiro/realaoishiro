@@ -1,4 +1,4 @@
-# 💻 **`Hi, I'm Mio`**   
+# 💻 **`Hi, I'm Shiro`**   
 *(Or as my DNS server calls me: `realaoishiro`)*  
 
 ---
@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td width="50%">  
-      <img src="src/images/lain-realme.gif">  
+      <img src="src/images/shiro.gif">  
     </td>
     <td width="50%">  
       - 🔐 Obsession: Breaking code (and occasionally the 4th wall) <br>  
