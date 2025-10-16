@@ -3,7 +3,7 @@
 
 ---
 
-## 🎭 **`Who the Chimichanga Am I?`**  
+## 🎭 **`Who Am I?`**  
 <table>
   <tr>
     <td width="50%">  
