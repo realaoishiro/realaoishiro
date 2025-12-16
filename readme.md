@@ -59,7 +59,7 @@
 
 <div align="center">
   <code>[!] HIDDEN QUEST DETECTED [!]</code><br>
-  <code>aHR0cHM6Ly9wYXN0ZWJpbi5jb20vZHZEckZ6MUY=</code>
+  <code>aHR0cHM6Ly9wYXN0ZWJpbi5jb20vV2RyVWlCeDU=</code>
 </div>
 
 <br>
