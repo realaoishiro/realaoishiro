@@ -64,6 +64,4 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realaoishiro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00B2FF&icon_color=00B2FF&text_color=FFFFFF" />
-</div>
+
