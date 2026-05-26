@@ -1,67 +1,59 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=35&pause=1000&color=00B2FF&background=00000000&center=true&vCenter=true&width=1000&lines=SYSTEM+ALERT:+PLAYER+DETECTED;Job+Class:+Purple+Team+Experimentalist;Title:+One+Who+Breaks+to+Build" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=500&size=32&pause=1500&color=FFFFFF&background=00000000&center=true&vCenter=true&width=1000&lines=AKASH+R+A;%E8%93%AE%E7%99%BD+%7C+AOISHIRO;ONE+WHO+BREAKS+TO+BUILD" alt="Typing SVG" />
   </a>
 </h1>
 
+<p align="center">
+  <strong>Programming Instructor & Cybersecurity Practitioner</strong><br>
+  <i>Deeply interested in low-level architecture, systems programming, and defensive security.</i>
+</p>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/LEVEL-21-000000?style=for-the-badge&logo=xbox&logoColor=00B2FF&labelColor=00B2FF">
-  <img src="https://img.shields.io/badge/RANK-C--Class-000000?style=for-the-badge&logo=hackthebox&logoColor=00B2FF&labelColor=00B2FF">
-  <img src="https://img.shields.io/badge/GUILD-Craw Security-000000?style=for-the-badge&logo=linux&logoColor=00B2FF&labelColor=00B2FF">
+  <a href="https://linkedin.com/in/aoishiro">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
+  </a>
+  <a href="https://tryhackme.com/p/aoishiro">
+    <img src="https://img.shields.io/badge/TryHackMe-000000?style=flat&logo=tryhackme&logoColor=FFFFFF" alt="TryHackMe" />
+  </a>
 </div>
 
 ---
 
-### 📉 **`[STATUS WINDOW]`**
-> *"I analyze by breaking. I defend by understanding the attack."*
+### 📥 [SYSTEM PROFILE]
 
-| **Attribute** | **Skill / Tool** | **Mastery Level** |
-| :--- | :--- | :--- |
-| **STR** (Offense) | `Metasploit` `BurpSuite` | ██░░░░░░░░ `[Loading...]` |
-| **INT** (Logic) | `Assembly` `Python` `Ghidra` | ███░░░░░░░ `[Learning]` |
-| **PER** (Senses) | `Wireshark` `Forensics` | ████░░░░░░ `[Analyzing]` |
-| **AGI** (Speed) | `Bash` `Linux CLI` | █████░░░░░ `[Optimizing]` |
+> *"To truly defend a system, one must understand the art of its deconstruction."*
 
----
+I am a Computer Science graduate and technical educator specializing in secure software development and binary analysis. My approach combines the structured mindset of an instructor with the analytical rigor required for digital forensics and vulnerability assessment.
 
-### ⚔️ **`[EQUIPPED SKILLS]`**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Assembly-000000?style=flat-square&logo=assemblyscript&logoColor=00B2FF" />
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00B2FF" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=00B2FF" />
-  <img src="https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=00B2FF" />
-  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=flat-square&logo=burpsuite&logoColor=00B2FF" />
-</div>
+* **Core Focus:** Secure Coding, Binary Analysis (x86/ARM), and Automation.
+* **Environment:** Keyboard-driven Linux enthusiast (Arch/EndeavourOS) operating entirely within optimized CLI workflows.
 
 ---
 
-### 📜 **`[QUEST LOG]`**
+### ⚙️ TECHNICAL LOADOUT
 
-**Daily Quest: "The Grind"**
-- [ ] **Objective 1:** Complete Daily TryHackMe Room `[In Progress]`
-- [ ] **Objective 2:** Understand 10 lines of Assembly Code `[In Progress]`
-- [x] **Objective 3:** Break something (accidentally) `[Completed]`
+| **Domain** | **Technologies & Tools** |
+| :--- | :--- |
+| **⚡ Languages & Scripts** | `Python` · `C` · `C++` · `Java` · `JavaScript` · `Bash` · `Assembly (x86/ARM)` |
+| **🛡️ Security & Systems** |`Ghidra` · `Wireshark` · `Burp Suite` · `Digital Forensics` · `Linux SysAdmin (Arch/EndeavourOS)` |
+| **🌐 Architecture & Cloud** | `AWS & OCI Cloud Fundamentals` · `Agile System Design` · `Oracle SQL` · `MySQL`  |
+
 
 ---
 
-### 🎒 **`[INVENTORY]`**
-<details>
-  <summary><b>📦 Click to Open Inventory</b></summary>
-  <ul>
-    <li><b>Main Weapon:</b> Terminal (i3wm/zsh)</li>
-    <li><b>Consumables:</b> Caffeine, Anime, Dark Mode</li>
-    <li><b>Key Item:</b> <a href="https://tryhackme.com/p/aoishiro">TryHackMe Profile</a></li>
-  </ul>
-</details>
+### 📂 FEATURED REPOSITORIES
+
+* 🎼 **[Cassette](https://github.com/realaoishiro/cassette)** – A modular Discord music bot developed in Python using `discord.py`, featuring structured file handling and robust API integration.
+* 🕹️ **[Tetra](https://github.com/realaoishiro/tetra)** – A minimal, performance-focused implementation of Tetris written strictly in C to demonstrate efficient memory allocation and algorithmic optimization.
+* 📚 **[Shelves](https://github.com/realaoishiro/shelves)** – A structured library management application engineered in PHP and MySQL to test access control mechanisms and input validation frameworks.
 
 ---
 
-<div align="center">
-  <code>[!] HIDDEN QUEST DETECTED [!]</code><br>
-  <code>aHR0cHM6Ly9wYXN0ZWJpbi5jb20vV2RyVWlCeDU=</code>
-</div>
+### 📝 CURRENT FOCUS LOG
 
-<br>
-
-
+```text
+[■] Pursuing advanced modules in offensive and defensive information security.
+[■] Refining dynamic script behavior and secure code architecture rules.
+[□] Advancing technical documentation and curriculum design for modern programming.
+[□] Studying Japanese language and core proficiency targets.
